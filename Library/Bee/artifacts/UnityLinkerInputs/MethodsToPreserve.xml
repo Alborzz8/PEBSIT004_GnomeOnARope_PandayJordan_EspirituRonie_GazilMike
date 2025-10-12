@@ -1,0 +1,57 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="GameManager">
+			<method name="ExitReached"/>
+			<method name="RestartGame"/>
+			<method name="RestartGame"/>
+			<method name="set_gnomeInvincible"/>
+			<method name="SetPaused"/>
+			<method name="SetPaused"/>
+			<method name="TrapTouched"/>
+			<method name="TrapTouched"/>
+			<method name="TrapTouched"/>
+			<method name="TrapTouched"/>
+			<method name="TrapTouched"/>
+			<method name="TreasureCollected"/>
+		</type>
+		<type fullname="MainMenu">
+			<method name="LoadScene"/>
+		</type>
+		<type fullname="Rope">
+			<method name="set_isDecreasing"/>
+			<method name="set_isDecreasing"/>
+			<method name="set_isIncreasing"/>
+			<method name="set_isIncreasing"/>
+		</type>
+		<type fullname="SpriteSwapper">
+			<method name="ResetSprite"/>
+			<method name="SwapSprite"/>
+		</type>
+	</assembly>
+	<assembly fullname="Unity.RenderPipelines.Core.Runtime" ignoreIfMissing="1">
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerButton">
+			<method name="OnAction"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerObjectPopupField">
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerPanel">
+			<method name="OnScrollbarClicked"/>
+			<method name="OnScrollbarClicked"/>
+			<method name="ResetDebugManager"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerUIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+	</assembly>
+</linker>
