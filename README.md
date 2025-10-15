@@ -55,6 +55,9 @@ Known Issues / Limitations
 
     No save/load system — progress resets when the game is closed.
     Touch controls may feel less responsive on smaller screens.
+    
+Demo Video
+    https://drive.google.com/drive/folders/1Ix3F8v4l_2eDz1rXnKjA2i2X2uJ3NAIN?usp=drive_link
 
 Group Members & Contributions
 
